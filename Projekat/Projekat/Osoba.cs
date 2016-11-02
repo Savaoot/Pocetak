@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Projekat
 {
-    public class Program
+   public class Osoba
     {
-        static void Main(string[] args)
-        {
-            
-        }
+
     }
 }

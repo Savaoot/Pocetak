@@ -30,6 +30,9 @@ namespace Projekat
             Console.WriteLine(os.Ime + " " + os.Prezime + " " + os.JMBG);
             Console.WriteLine(os);
 
+            Korisnik k = new Korisnik("Pero", "Nikic", "323452345", "Ludak", "345");
+            Console.WriteLine(k);
+
         }
     }
 }
